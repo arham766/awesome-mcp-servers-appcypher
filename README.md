@@ -209,6 +209,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 <br />
 
 ## 🔍 <a name="search-web"></a>Search & Web
+- [Fortress](https://github.com/tiliondev/fortress) - Stealth Chromium over CDP; get agents past Cloudflare, DataDome, Akamai, and Anubis. MCP tools for fetch, extract, crawl, and WAF detection.
 
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
